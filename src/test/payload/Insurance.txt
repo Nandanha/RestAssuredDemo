@@ -1,0 +1,12 @@
+{
+   "propertyId":1,
+   "policyNumber":"INS002",
+   "broker":1,
+   "carrierName":"ING National Insurance",
+   "coverageAmount":400000,
+   "policyType":"GENERAL_LIABILITY",
+   "coverageStartDate":"05-30-2020",
+   "coverageEndDate":"05-30-2021",
+   "notes":"new insurance ACME",
+   "status":"CERTIFICATE_PENDING"
+}

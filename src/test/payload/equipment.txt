@@ -1,0 +1,12 @@
+ {
+		"price":450.00,
+		"status":"TWO",
+		"warranty":2,
+		"warrantyType":"YEAR",
+		"description":"New static equipment 3",
+		"equipmentTypeId":1,
+		"equipmentDomainType":"HVAC",
+		"model":"TYN678",
+		"manufacturer":"Samsung",
+		"client":"EquipmentHVAC"
+	}

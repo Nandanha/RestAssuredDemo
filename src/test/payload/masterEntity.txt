@@ -1,0 +1,33 @@
+{
+	"entityName":"Wayne I",
+	"entityLongName":"Wayne Industries",
+	"description":"HVAC Industries",
+	"featureIdList":[
+				3,
+				4,
+				5
+				],
+	"businessDomainIdList":[1],
+	"businessSubDomainIdList":[1],
+
+	"preferences": {
+    	"format":{
+        	"locale": {
+            	"lang": "en",
+            	"region": "US"
+        		},
+        	"date": "YYYY-MM-DD",
+        	"time": "HH:MM A",
+        	"dateTime": "YYYY-MM-DD HH:MM A",
+        	"currency": "$"
+    	},
+    	"theme":{
+        	"active": "theme-special",
+        	"attributes": {
+            	"parentFont":"TIMES_NEW_ROMAN",
+            	"backgroundColor":"WHITE"
+        	}
+    	}
+
+    }
+}

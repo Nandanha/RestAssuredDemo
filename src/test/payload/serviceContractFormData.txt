@@ -1,0 +1,14 @@
+{
+   "propertyId":1,
+   "contractNumber":"SC001",
+   "startDate":"01-05-2019",
+   "endDate":"12-05-2019",
+   "contractDuration":11,
+   "durationType":"MONTH",
+   "laborRate":8.9,
+   "serviceFrequency":3,
+   "frequencyType":"MONTH",
+   "schedule":[],
+   "comments":"new service contract ACME",
+   "status":"DOCUMENT_PENDING"
+}

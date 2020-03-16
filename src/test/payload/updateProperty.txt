@@ -1,0 +1,50 @@
+{
+"propertyId":3,
+
+"primaryContact":7,
+
+"jurisdiction":{"jurisdictionId":1},
+
+"name":"updatedName",
+
+"propertyType":"COMMERCIAL",
+
+"phone":"9738933711",
+
+"propertyTag":"propUser5",
+
+"streetAddress":"Acme Street",
+
+"aptSuite":"7th floor",
+
+"city":"New York",
+
+"state":"NY",
+
+"country":"USA",
+
+"zip":"10024",
+
+"billingStreetAddress":"143 Reade Street",
+
+"billingAptSuite":"4th floor",
+
+"billingCity":"New York",
+
+"billingState":"NY",
+
+"billingCountry":"USA",
+
+"billingZip":"10024",
+
+"isTaxable":"YES",
+
+"salesTax":"1000",
+
+"status":"ONE",
+
+"priority":"HIGH",
+
+"comments":"New building updated"
+
+}

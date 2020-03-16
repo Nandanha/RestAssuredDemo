@@ -1,0 +1,28 @@
+[
+		{
+			"propertyServiceableComponent":{
+				"serviceFrequency":1,
+				"frequencyType":"YEAR",
+				"priority":"HIGH",
+				"serialNumber":"KJ678DG",
+				"groupName":"Group1",
+				"client":"PropertyComponentHVAC"
+			},
+			"equipmentComponent":{
+			    "count":5,
+				"componentTypeId":5,
+				"componentDomainType":"HVAC",
+				"status":"OK",
+				"name":"comp1",
+				"comments":"comments on prop comp",
+				"componentDetails":{
+					"rating":"1200v",
+					"voltage":220,
+					"coilVoltage":200,
+					"type":"voltage"
+					},
+				"client":"EquipmentComponentHVAC"
+			}
+		},
+		{}
+	]

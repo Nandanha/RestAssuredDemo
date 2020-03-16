@@ -1,0 +1,15 @@
+{
+		"propertyId":1,
+		"equipmentDomainType":"HVAC",
+		"equipmentStatus":"OK",
+		"priority":"MEDIUM",
+		"frequencyType":"MONTH",
+		"comments":"adding prop equip hvac 2",
+		"lastReplaced":"04-25-2018",
+		"serialNumber":"GHJ57",
+		"location":"Terrace",
+		"location2":"Terrace",
+		"description":"adding today",
+		"propertyEquipmentTag":"AH terrace",
+		"client":"PropertyEquipmentHVAC"
+	}
