@@ -1,0 +1,20 @@
+#####DATE
+Content-Type=application/json; charset=utf-8
+Content-Length=84
+Connection=keep-alive
+#####COOKIE
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+#####ETAG
+Via=1.1 vegur
+CF-Cache-Status=DYNAMIC
+Expect-CT=max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server=cloudflare
+#####CF-RAY
+
+{
+    "name": "morpheus",
+    "job": "leader",
+    #####ID
+    #####CRETED_DATE_TIME_STAMP
+}
